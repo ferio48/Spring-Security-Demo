@@ -9,8 +9,8 @@ Features:-
 5. Comprehensive error handling
 
 Technologies Used:-
-Spring Boot
-Spring Security
-JWT Authentication
-MySQL
-Maven
+1.Spring Boot
+2.Spring Security
+3.JWT Authentication
+4.MySQL
+5.Maven
